@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+a{
+  display: inline-block;
+  padding:5px 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #4c1d95;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+a:hover{
+  background-color: #fff;
+}
